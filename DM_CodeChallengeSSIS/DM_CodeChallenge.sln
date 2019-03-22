@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "DM_CodeChallenge", "DM_CodeChallenge\DM_CodeChallenge.dtproj", "{E0656692-FEFD-4675-AC41-FA6F2923192B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0656692-FEFD-4675-AC41-FA6F2923192B}.Development|Default.ActiveCfg = Development
+		{E0656692-FEFD-4675-AC41-FA6F2923192B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94A670A5-E1C7-4564-96E6-16DFD290B1CE}
+	EndGlobalSection
+EndGlobal
